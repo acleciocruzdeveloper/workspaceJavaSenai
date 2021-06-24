@@ -1,2 +1,5 @@
-# workspaceJavaSenai
-Pasta de Estudo do Curso de Java Senai-DF
+# Curso de Java OO - Senai Taguatinga
+## Conteúdo do Curso
+- Git e GitHub
+- Lógica de Programação
+- Sintaxe Java 

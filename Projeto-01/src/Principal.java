@@ -1,5 +1,3 @@
-import jdk.swing.interop.SwingInterOpUtils;
-
 public class Principal {
 
 	public static void main(String[] args) {
@@ -9,7 +7,6 @@ public class Principal {
 				
 		System.out.println("A soma entre 12 + 12 = ");
 		System.out.println(a + b);
-
 	}
 
 }

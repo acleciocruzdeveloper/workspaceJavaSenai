@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>workspaceJavaSenai</name>
-=======
-	<name>exercicio-06</name>
->>>>>>> 1aef37f9dbc6fbac6e2b45be001d32630f83ee94
+	<name>exercicio06</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
-	</buildSpec>
-	<natures>
-=======
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -21,6 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
->>>>>>> 1aef37f9dbc6fbac6e2b45be001d32630f83ee94
 	</natures>
 </projectDescription>
